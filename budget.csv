@@ -1,0 +1,13 @@
+room,config,score,valid,cpu,note
+spiral,half_budget,75736.0,True,146.6,"grid outline (210 sides) with 2 gates, expected score 75736.0 (cpu 146.6s, 33750 checks, 0 restarts)"
+spiral,full,109806.0,True,291.7,"grid grown by bumps (398 sides) with 2 gates, expected score 109806.0 (cpu 291.7s, 46938 checks, 0 restarts)"
+crown,full,106950.0,True,290.0,"grid grown by bumps (50 sides) with 2 gates, expected score 106950.0 (cpu 290.0s, 7061 checks, 5215 restarts)"
+crown,half_budget,106950.0,True,145.0,"grid grown by bumps (50 sides) with 2 gates, expected score 106950.0 (cpu 145.0s, 3508 checks, 2536 restarts)"
+n_shaped_room,half_budget,2910.0,True,145.0,"grid grown by bumps (12 sides) with 2 gates, expected score 2910.0 (cpu 145.0s, 5847815 checks, 0 restarts)"
+u_corridor,full,1572.0,True,202.2,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 202.2s, 10267166 checks, 20005 restarts)"
+n_shaped_room,full,3042.0,True,290.0,"rect grown by bumps (12 sides) with 2 gates, expected score 3042.0 (cpu 290.0s, 10072580 checks, 5870 restarts)"
+u_corridor,half_budget,1542.0,True,145.0,"grid outline (6 sides) with 2 gates, expected score 1542.0 (cpu 145.0s, 6499819 checks, 0 restarts)"
+1a,full,1649.3,True,219.4,"oct (12, 12, 12, 12) with 2 gates, expected score 1649.3 (cpu 219.4s, 1120637 checks, 20000 restarts)"
+1a,half_budget,1649.3,True,145.0,"oct (12, 12, 12, 12) with 2 gates, expected score 1649.3 (cpu 145.0s, 1108362 checks, 12938 restarts)"
+cool,full,11322.0,True,246.0,"stair (8, 14, 8, 7) with 2 gates, expected score 11322.0 (cpu 246.0s, 9030772 checks, 0 restarts)"
+cool,half_budget,9853.7,True,145.0,"hex (18, 7, 7) with 2 gates, expected score 9853.7 (cpu 145.0s, 7215386 checks, 0 restarts)"

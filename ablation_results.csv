@@ -1,0 +1,135 @@
+room,config,score,valid,cpu,note
+narrow,full,2000.0,True,1.0,dry
+narrow,no_grid,1800.0,True,1.0,dry
+narrow,no_trace,1000.0,True,1.0,dry
+narrow,no_bumps,2000.0,True,1.0,dry
+narrow,no_templates,1800.0,True,1.0,dry
+narrow,no_restarts,1000.0,True,1.0,dry
+narrow,no_exact,2000.0,True,1.0,dry
+narrow,no_dominance,2000.0,True,1.0,dry
+hallway,full,2500.0,True,1.0,dry
+hallway,no_grid,1250.0,True,1.0,dry
+hallway,no_trace,2250.0,True,1.0,dry
+hallway,no_bumps,2500.0,True,1.0,dry
+hallway,no_templates,2500.0,True,1.0,dry
+hallway,no_restarts,2500.0,True,1.0,dry
+hallway,no_exact,1250.0,True,1.0,dry
+hallway,no_dominance,1250.0,True,1.0,dry
+corridor,full,3000.0,True,1.0,dry
+corridor,no_grid,2700.0,True,1.0,dry
+corridor,no_trace,3000.0,True,1.0,dry
+corridor,no_bumps,3000.0,True,1.0,dry
+corridor,no_templates,3000.0,True,1.0,dry
+corridor,no_restarts,3000.0,True,1.0,dry
+corridor,no_exact,2700.0,True,1.0,dry
+corridor,no_dominance,1500.0,True,1.0,dry
+u_corridor,full,1500.0,True,1.0,dry
+u_corridor,no_grid,1350.0,True,1.0,dry
+u_corridor,no_trace,1500.0,True,1.0,dry
+u_corridor,no_bumps,1350.0,True,1.0,dry
+u_corridor,no_templates,1500.0,True,1.0,dry
+u_corridor,no_restarts,1500.0,True,1.0,dry
+u_corridor,no_exact,1350.0,True,1.0,dry
+u_corridor,no_dominance,750.0,True,1.0,dry
+i_room,full,2000.0,True,1.0,dry
+i_room,no_grid,1000.0,True,1.0,dry
+i_room,no_trace,2000.0,True,1.0,dry
+i_room,no_bumps,1000.0,True,1.0,dry
+i_room,no_templates,1800.0,True,1.0,dry
+i_room,no_restarts,1000.0,True,1.0,dry
+i_room,no_exact,1800.0,True,1.0,dry
+i_room,no_dominance,1000.0,True,1.0,dry
+n_shaped_room,full,3000.0,True,1.0,dry
+n_shaped_room,no_grid,3000.0,True,1.0,dry
+n_shaped_room,no_trace,2700.0,True,1.0,dry
+n_shaped_room,no_bumps,2700.0,True,1.0,dry
+n_shaped_room,no_templates,1500.0,True,1.0,dry
+n_shaped_room,no_restarts,2700.0,True,1.0,dry
+n_shaped_room,no_exact,3000.0,True,1.0,dry
+n_shaped_room,no_dominance,3000.0,True,1.0,dry
+cool,full,3500.0,True,1.0,dry
+cool,no_grid,3500.0,True,1.0,dry
+cool,no_trace,3500.0,True,1.0,dry
+cool,no_bumps,1750.0,True,1.0,dry
+cool,no_templates,3500.0,True,1.0,dry
+cool,no_restarts,3150.0,True,1.0,dry
+cool,no_exact,3500.0,True,1.0,dry
+cool,no_dominance,3150.0,True,1.0,dry
+1a,full,2500.0,True,1.0,dry
+1a,no_grid,1250.0,True,1.0,dry
+1a,no_trace,2500.0,True,1.0,dry
+1a,no_bumps,2250.0,True,1.0,dry
+1a,no_templates,2250.0,True,1.0,dry
+1a,no_restarts,1250.0,True,1.0,dry
+1a,no_exact,2500.0,True,1.0,dry
+1a,no_dominance,1250.0,True,1.0,dry
+3a,full,2500.0,True,1.0,dry
+3a,no_grid,2250.0,True,1.0,dry
+3a,no_trace,2500.0,True,1.0,dry
+3a,no_bumps,1250.0,True,1.0,dry
+3a,no_templates,1250.0,True,1.0,dry
+3a,no_restarts,2250.0,True,1.0,dry
+3a,no_exact,1250.0,True,1.0,dry
+3a,no_dominance,2250.0,True,1.0,dry
+narrow,pose_seeds_0,1076.0,True,19.4,"step (11, 9, 5, 7), expected score 1076.0 (cpu 19.4s, 481059 checks, 20000 restarts)"
+narrow,seeds_8,1076.0,True,19.6,"step (11, 9, 5, 7), expected score 1076.0 (cpu 19.6s, 481059 checks, 20000 restarts)"
+narrow,seeds_4,1076.0,True,19.8,"step (11, 9, 5, 7), expected score 1076.0 (cpu 19.8s, 481059 checks, 20000 restarts)"
+narrow,restarts_2k,1076.0,True,0.6,"step (11, 9, 5, 7), expected score 1076.0 (cpu 0.6s, 12496 checks, 500 restarts)"
+narrow,restarts_8k,1076.0,True,1.9,"step (11, 9, 5, 7), expected score 1076.0 (cpu 1.9s, 48235 checks, 2000 restarts)"
+narrow,template_checks_500k,1076.0,True,16.9,"step (11, 9, 5, 7), expected score 1076.0 (cpu 16.9s, 481059 checks, 20000 restarts)"
+narrow,grids_15,1076.0,True,18.2,"step (11, 9, 5, 7), expected score 1076.0 (cpu 18.2s, 481059 checks, 20000 restarts)"
+narrow,exact_angles_8,1076.0,True,18.2,"step (11, 9, 5, 7), expected score 1076.0 (cpu 18.2s, 481059 checks, 20000 restarts)"
+hallway,seeds_4,2831.3,True,15.8,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 15.8s, 179243 checks, 20000 restarts)"
+narrow,node_limit_400,1076.0,True,19.3,"step (11, 9, 5, 7), expected score 1076.0 (cpu 19.3s, 481059 checks, 20000 restarts)"
+narrow,relax_sides_12,1076.0,True,19.4,"step (11, 9, 5, 7), expected score 1076.0 (cpu 19.4s, 481059 checks, 20000 restarts)"
+hallway,restarts_8k,2831.3,True,3.7,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 3.7s, 75556 checks, 2000 restarts)"
+hallway,restarts_2k,2831.3,True,3.1,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 3.1s, 66850 checks, 500 restarts)"
+hallway,seeds_8,2831.3,True,20.3,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 20.3s, 179243 checks, 20000 restarts)"
+hallway,pose_seeds_0,2831.3,True,20.4,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 20.4s, 179243 checks, 20000 restarts)"
+hallway,template_checks_500k,2831.3,True,17.3,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 17.3s, 179243 checks, 20000 restarts)"
+hallway,grids_15,2831.3,True,15.9,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 15.9s, 179243 checks, 20000 restarts)"
+hallway,exact_angles_8,2831.3,True,16.2,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 16.2s, 179243 checks, 20000 restarts)"
+hallway,node_limit_400,2831.3,True,16.1,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 16.1s, 179243 checks, 20000 restarts)"
+hallway,relax_sides_12,2831.3,True,16.5,"band2 (20, 30, 2, 6, 12) with 2 gates, expected score 2831.3 (cpu 16.5s, 179243 checks, 20000 restarts)"
+corridor,seeds_4,1967.1,True,80.2,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 80.2s, 1171569 checks, 20000 restarts)"
+corridor,seeds_8,1967.1,True,86.8,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 86.8s, 1171569 checks, 20000 restarts)"
+corridor,pose_seeds_0,1967.1,True,89.9,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 89.9s, 1171569 checks, 20000 restarts)"
+corridor,restarts_8k,1967.1,True,73.2,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 73.2s, 1101694 checks, 2000 restarts)"
+corridor,restarts_2k,1967.1,True,70.7,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 70.7s, 1096132 checks, 500 restarts)"
+corridor,template_checks_500k,1504.0,True,90.7,"grid outline (4 sides) with 2 gates, expected score 1504.0 (cpu 90.7s, 1084668 checks, 20000 restarts)"
+corridor,grids_15,1967.1,True,102.0,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 102.0s, 1171569 checks, 20000 restarts)"
+corridor,exact_angles_8,1967.1,True,104.6,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 104.6s, 1171569 checks, 20000 restarts)"
+corridor,node_limit_400,1967.1,True,94.8,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 94.8s, 1160453 checks, 20000 restarts)"
+corridor,relax_sides_12,1967.1,True,277.7,"band (30, 1, 5, 8) with 2 gates, expected score 1967.1 (cpu 277.7s, 1171569 checks, 20000 restarts)"
+u_corridor,seeds_4,1572.0,True,290.0,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 290.0s, 10192842 checks, 281 restarts)"
+u_corridor,seeds_8,1572.0,True,290.0,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 290.0s, 10198214 checks, 1788 restarts)"
+u_corridor,restarts_8k,1572.0,True,228.0,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 228.0s, 10198917 checks, 2005 restarts)"
+u_corridor,restarts_2k,1572.0,True,218.3,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 218.3s, 10193678 checks, 505 restarts)"
+u_corridor,pose_seeds_0,1572.0,True,275.0,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 275.0s, 10267166 checks, 20005 restarts)"
+u_corridor,template_checks_500k,1572.0,True,67.7,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 67.7s, 1265466 checks, 20005 restarts)"
+u_corridor,grids_15,1572.0,True,258.7,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 258.7s, 10267166 checks, 20005 restarts)"
+u_corridor,exact_angles_8,1572.0,True,260.7,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 260.7s, 10267166 checks, 20005 restarts)"
+i_room,seeds_4,2788.0,True,38.5,"room trace (12 sides), expected score 2788.0 (cpu 38.5s, 210606 checks, 20000 restarts)"
+u_corridor,node_limit_400,1572.0,True,258.3,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 258.3s, 10269763 checks, 20005 restarts)"
+i_room,seeds_8,2788.0,True,39.9,"room trace (12 sides), expected score 2788.0 (cpu 39.9s, 210606 checks, 20000 restarts)"
+i_room,pose_seeds_0,2788.0,True,39.1,"room trace (12 sides), expected score 2788.0 (cpu 39.1s, 210606 checks, 20000 restarts)"
+i_room,restarts_8k,2788.0,True,10.1,"room trace (12 sides), expected score 2788.0 (cpu 10.1s, 173368 checks, 2000 restarts)"
+i_room,restarts_2k,2788.0,True,6.7,"room trace (12 sides), expected score 2788.0 (cpu 6.7s, 170444 checks, 500 restarts)"
+i_room,template_checks_500k,2788.0,True,39.9,"room trace (12 sides), expected score 2788.0 (cpu 39.9s, 210606 checks, 20000 restarts)"
+i_room,grids_15,2788.0,True,40.6,"room trace (12 sides), expected score 2788.0 (cpu 40.6s, 210606 checks, 20000 restarts)"
+i_room,exact_angles_8,2788.0,True,37.7,"room trace (12 sides), expected score 2788.0 (cpu 37.7s, 210606 checks, 20000 restarts)"
+i_room,node_limit_400,2788.0,True,38.9,"room trace (12 sides), expected score 2788.0 (cpu 38.9s, 210606 checks, 20000 restarts)"
+i_room,relax_sides_12,2788.0,True,39.0,"room trace (12 sides), expected score 2788.0 (cpu 39.0s, 210606 checks, 20000 restarts)"
+u_corridor,relax_sides_12,1572.0,True,290.0,"rect grown by bumps (6 sides) with 2 gates, expected score 1572.0 (cpu 290.0s, 10229898 checks, 10025 restarts)"
+n_shaped_room,seeds_4,3042.0,True,290.0,"rect grown by bumps (12 sides) with 2 gates, expected score 3042.0 (cpu 290.0s, 10074592 checks, 7154 restarts)"
+n_shaped_room,seeds_8,3042.0,True,290.0,"rect grown by bumps (12 sides) with 2 gates, expected score 3042.0 (cpu 290.0s, 10074593 checks, 7196 restarts)"
+n_shaped_room,pose_seeds_0,3042.0,True,290.0,"rect grown by bumps (12 sides) with 2 gates, expected score 3042.0 (cpu 290.0s, 10074733 checks, 7276 restarts)"
+n_shaped_room,restarts_8k,3042.0,True,260.6,"rect grown by bumps (12 sides) with 2 gates, expected score 3042.0 (cpu 260.6s, 10069444 checks, 3790 restarts)"
+n_shaped_room,restarts_2k,2926.0,True,236.2,"rect grown by bumps (12 sides) with 2 gates, expected score 2926.0 (cpu 236.2s, 10065284 checks, 1045 restarts)"
+n_shaped_room,template_checks_500k,3224.0,True,290.0,"rect grown by bumps (12 sides) with 2 gates, expected score 3224.0 (cpu 290.0s, 1105524 checks, 27898 restarts)"
+n_shaped_room,grids_15,2910.0,True,290.0,"grid grown by bumps (12 sides) with 2 gates, expected score 2910.0 (cpu 290.0s, 9442854 checks, 0 restarts)"
+n_shaped_room,exact_angles_8,2910.0,True,290.0,"grid grown by bumps (12 sides) with 2 gates, expected score 2910.0 (cpu 290.0s, 9336709 checks, 0 restarts)"
+n_shaped_room,node_limit_400,2910.0,True,290.0,"grid grown by bumps (12 sides) with 2 gates, expected score 2910.0 (cpu 290.0s, 8330429 checks, 0 restarts)"
+n_shaped_room,relax_sides_12,2910.0,True,290.1,"grid grown by bumps (12 sides) with 2 gates, expected score 2910.0 (cpu 290.1s, 210168 checks, 0 restarts)"
+cool,seeds_4,9853.7,True,290.0,"hex (18, 7, 7) with 2 gates, expected score 9853.7 (cpu 290.0s, 6488091 checks, 0 restarts)"
+cool,seeds_8,9853.7,True,290.0,"hex (18, 7, 7) with 2 gates, expected score 9853.7 (cpu 290.0s, 6710234 checks, 0 restarts)"

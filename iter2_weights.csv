@@ -1,0 +1,17 @@
+room,variant,score,area,perimeter,cpu
+spiral,none,3068.0,987.0,152.0,150.5
+spiral,noturn,2938.0,1275.0,204.0,150.6
+spiral,nodist,3068.0,987.0,152.0,150.7
+spiral,base,3040.0,1326.0,204.0,150.8
+crown,nodist,19385.3,1923.5,190.0,150.2
+crown,base,16065.6,1601.6,210.0,150.2
+crown,noturn,16065.6,1601.6,210.0,150.2
+crown,none,20518.9,2056.9,230.0,150.2
+corridor,nodist,0.0,0.0,0.0,225.4
+corridor,base,0.0,0.0,0.0,225.7
+corridor,none,0.0,0.0,0.0,225.5
+corridor,noturn,0.0,0.0,0.0,225.6
+curved,base,1532.0,344.0,92.0,150.0
+curved,nodist,1660.0,408.0,92.0,150.0
+curved,noturn,1500.0,304.0,76.0,150.0
+curved,none,1388.0,272.0,92.0,150.0
